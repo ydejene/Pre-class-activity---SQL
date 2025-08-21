@@ -13,7 +13,7 @@ CREATE TABLE `students` (
   PRIMARY KEY (`student_id`)
 );
 
--- Insert sample data into the students table
+-- Insert sample data into the students table.
 INSERT INTO `students` (`student_id`, `student_name`, `intake_year`) VALUES
 (1,'Abdul Kudus Zakaria Mukhtaru',2024),
 (2,'Belyse Intwaza',2024),
